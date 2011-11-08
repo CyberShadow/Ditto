@@ -1,0 +1,10 @@
+Debug
+Debug64
+Release
+Release64
+
+*.vcxproj.user
+*.opensdf
+*.sdf
+*.suo
+*.lib
